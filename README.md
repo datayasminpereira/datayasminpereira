@@ -1,6 +1,6 @@
-### Hi there! 👋 I'm Yasmin Pereira and welcome to my GitHub 👋
+### Hi there! 👋 I'm Yasmin Pereira and welcome to my GitHub 🤗
 
-- 🌱 I’m currently improving my knowledge in the Python programming language
+- 💻 I’m currently improving my knowledge in the Python programming language
 <div align="center">
   <a href="https://github.com/datayasminpereira">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=datayasminpereira&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
