@@ -1,6 +1,6 @@
 ### Hi there! 👋 I'm Yasmin Pereira and welcome to my GitHub 🤗
 
-- 🐍 Advanced knowledge of python language.
+- 🐍 Advanced knowledge of Python language.
 - 🗃️ I've had contact with databases, both SQL and NoSQL.
 - 📚 I’m currently improving my knowledge in the JavaScript.
 
