@@ -1,8 +1,9 @@
-### Hi there! 👋 I'm Yasmin Pereira and welcome to my GitHub 🤗
+### Olá! 👋 Sou Yasmin Pereira e seja bem-vindo ao meu github! 🤗
 
-- 🐍 Advanced knowledge of Python language.
-- 🗃️ I've had contact with databases, both SQL and NoSQL.
-- 📚 I’m currently improving my knowledge in the JavaScript.
+- 🏆 Conhecimento avançado em JavaScript, CSS (semântico), HTML e Python.
+- 🗃️ Já tive contato com banco de dados, tanto SQL (MySQL e PostgreSQL) como NoSQL (MongoDB).
+- 📚 Estou aprimorando meu conhecimentos sobre React e seu ecossistema.
+- 💻 Portfólio: https://portifolio-two-rho.vercel.app/index.html
 
 <div align="center">
   <a href="https://github.com/datayasminpereira">
