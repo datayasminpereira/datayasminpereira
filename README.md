@@ -1,6 +1,6 @@
 ### Olá! 👋 Sou Yasmin Pereira e seja bem-vindo ao meu github! 🤗
 
-- 🏆 Conhecimento avançado em JavaScript, CSS (semântico), HTML e Python.
+- 🏆 Conhecimentos avançados em JavaScript, CSS (semântico), HTML e Python.
 - 🗃️ Já tive contato com banco de dados, tanto SQL (MySQL e PostgreSQL) como NoSQL (MongoDB).
 - 📚 Estou aprimorando meu conhecimento sobre React e seu ecossistema.
 - 💻 Portfólio: https://portifolio-two-rho.vercel.app/index.html
