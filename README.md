@@ -5,7 +5,7 @@
   <img align="center" alt="Yas-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
   <img align="center" alt="Yas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Yas-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <i align="center" alt="Yas-Python" height="30" width="40"class="devicon-pandas-original-wordmark"></i>    
+  <i align="center" alt="Yas-Python" font-size="40" class="devicon-pandas-original-wordmark"></i>    
 </div>
   
  ## 
