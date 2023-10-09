@@ -1,5 +1,5 @@
 
-# 👩‍💻 Olá! Meu nome é Yasmin Pereira
+# 👩‍💻 Olá! Meu nome é Yasmin Barroso
 
 ## Sobre mim
 
