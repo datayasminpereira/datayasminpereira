@@ -1,23 +1,15 @@
 
-# 👩‍💻 Olá! Meu nome é Yasmin Barroso
+### Hi there 👋 
 
-## Sobre mim
+<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
-* 🎓 Estou no 3° semestre em Ciência da computação;
-* 💻 Fiz alguns projetos de front-end usando JS, React, TypeScript, SvelteJS.;
+<p align="left">
+My name is Yasmin Barroso and I'm in the 4th semester of Computer Science. I've completed various front-end projects using JS, React, TypeScript, and SvelteJS. I'm studying <strong>data science</strong> to transition into this field.
+  
+Currently, in my internship, I'm handling tasks like AI implementations using PyTorch and YOLO, conducting exploratory analysis with Pandas, Numpy, Seaborn, and creating reports and dashboards using Power BI.  
+</p>
 
-* 🦾 Atualmente estou estagiando em automatização de tarefas e em implementações de IAs, usando o PyTorch e YOLO;
-
-* 📚 Estou estudando ciência de dados para poder migrar para tal área.
-
-## Conecte-se comigo
-
-<div>
-  <a href = "mailto:datayasminpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23f53c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/yasmin-pereira-9a0a34212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
-
-## Tech Stacks
+### Languagens and tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Yas-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Yas-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
@@ -31,11 +23,19 @@
       
 </div>
 
-## Github stats e outras infos
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=datayasminpereira&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+### Contact me
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=datayasminpereira&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+<div>
+  <a href = "mailto:datayasminpereira@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23f53c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/yasmin-pereira-9a0a34212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=datayasminpereira&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
+#
+<div style="margin: 0 auto;" align="center">
+  <img  height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=datayasminpereira&theme=dark&hide_border=false"/>
+  <img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datayasminpereira&show_icons=true&layout=compact&theme=dark" />
+</div>
+
+
 
 
