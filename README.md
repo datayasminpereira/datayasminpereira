@@ -1,7 +1,7 @@
 
 ### Hi there 👋 
 
-<img src="https://github.com/julianazanelatto/image_data_science/blob/main/data_science.png" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
+<img src="https://github.com/datayasminpereira/image_data_science/blob/main/data_engineer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
 My name is Yasmin Barroso and I'm in the 4th semester of Computer Science. I've completed various front-end projects using JS, React, TypeScript, and SvelteJS. I'm studying <strong>data science</strong> to transition into this field.
