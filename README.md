@@ -4,18 +4,21 @@
 <img src="https://github.com/datayasminpereira/image_data_science/blob/main/data_engineer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
-My name is Yasmin Barroso and I'm in the 4th semester of Computer Science. I've completed various front-end projects using JS, React, TypeScript, and SvelteJS. I'm studying <strong>data science</strong> to transition into this field.
+My name is Yasmin Barroso and I'm in the 4th semester of Computer Science. Currently, I am a data engineering intern at a fintech company called Blu.
   
-Currently, in my internship, I'm handling tasks like AI implementations using PyTorch and YOLO, conducting exploratory analysis with Pandas, Numpy, Seaborn, and creating reports and dashboards using Power BI.  
+In my internship, my main responsibility is developing and maintaining data pipelines. In this context, I am involved in a variety of tasks ranging from batch and real-time data ingestion to cloud processing and storage. This includes orchestrating data flows, file manipulation, and interactions with APIs to ensure data integrity and efficiency across its entire lifecycle. 
 </p>
 
-### Languagens and tools
+### Tools the I have been studyng and working with
 <div style="display: inline_block"><br>
-  <img align="center" alt="Yas-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Yas-Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img align="center" alt="Yas-Numpy" height="85" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img align="center" alt="Yas-MySQL" height="85" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img align="center" alt="Yas-PostgreSQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />       
+  <img align="center" alt="apache-spark" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
+  <img align="center" alt="apache-airflow" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
+  <img align="center" alt="AWS" height="85" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+  <img align="center" alt="docker" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img align="center" alt="postgresql" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
+  <img align="center" alt="python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+          
       
 </div>
 
