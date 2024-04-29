@@ -9,7 +9,7 @@ My name is Yasmin Barroso and I'm in the 4th semester of Computer Science. Curre
 In my internship, my main responsibility is developing and maintaining data pipelines. In this context, I am involved in a variety of tasks ranging from batch and real-time data ingestion to cloud processing and storage. This includes orchestrating data flows, file manipulation, and interactions with APIs to ensure data integrity and efficiency across its entire lifecycle. 
 </p>
 
-### Tools the I have been studyng and working with
+### Tools that I have been studying and working with
 <div style="display: inline_block"><br>
   <img align="center" alt="apache-spark" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
   <img align="center" alt="apache-airflow" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
