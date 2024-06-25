@@ -31,11 +31,6 @@ In my internship, my main responsibility is developing and maintaining data pipe
   <a href="https://www.linkedin.com/in/yasmin-pereira-9a0a34212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-#
-<div style="margin: 0 auto;" align="center">
-  <img  height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=datayasminpereira&theme=dark&hide_border=false"/>
-  <img  height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=datayasminpereira&show_icons=true&layout=compact&theme=dark" />
-</div>
 
 
 
