@@ -4,7 +4,7 @@
 <img src="https://github.com/datayasminpereira/image_data_science/blob/main/data_engineer.svg" min-width="300px" max-width="300px" width="300px" align="right" alt="Computador">
 
 <p align="left">
-My name is Yasmin Barroso and I'm in the 4th semester of Computer Science. Currently, I am a data engineering intern at a fintech company called Blu.
+My name is Yasmin Barroso and I'm in the 5th semester of Computer Science. Currently, I am a data engineering intern at a fintech company called Blu.
   
 In my internship, my main responsibility is developing and maintaining data pipelines. In this context, I am involved in a variety of tasks ranging from batch and real-time data ingestion to cloud processing and storage. This includes orchestrating data flows, file manipulation, and interactions with APIs to ensure data integrity and efficiency across its entire lifecycle. 
 </p>
