@@ -11,7 +11,6 @@ In my internship, my main responsibility is developing and maintaining data pipe
 
 ### Tools that I have been studying and working with
 <div style="display: inline_block"><br>
-  <img align="center" alt="apache-spark" height="80" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachespark/apachespark-original-wordmark.svg" />
   <img align="center" alt="apache-airflow" height="90" width="120" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apacheairflow/apacheairflow-original-wordmark.svg" />
   <img align="center" alt="AWS" height="85" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
   <img align="center" alt="docker" height="70" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
